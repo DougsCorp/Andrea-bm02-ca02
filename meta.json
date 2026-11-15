@@ -1,0 +1,20 @@
+﻿{
+    "domain":  "calculatesupply.com",
+    "bm_id":  "bm02",
+    "ga_measurement_id":  "G-PTY57M66PW",
+    "github_repo":  "DougsCorp/Andrea-bm02-ca02",
+    "operator":  "Andrea",
+    "status":  "deployed",
+    "ca_id":  "ca02",
+    "subdomain":  "bmh",
+    "product":  "CogniClear",
+    "full_url":  "https://bmh.calculatesupply.com",
+    "pages":  [
+                  {
+                      "path":  "/vsl1/",
+                      "template":  "Quiz-ps-CogniClear",
+                      "type":  "ps"
+                  }
+              ]
+}
+
